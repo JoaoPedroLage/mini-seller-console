@@ -6,17 +6,20 @@ const Input = React.forwardRef<
   React.InputHTMLAttributes<HTMLInputElement>
 >(({ className, ...props }, ref) => {
   return (
-    <input
-      className={cn(
-        "flex h-10 w-full rounded-md border border-slate-300 bg-transparent py-2 px-3 text-sm placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2",
-        className
-      )}
-      ref={ref}
-      {...props}
-    />
+    <div className="relative group">
+      <input
+        className={cn(
+          "flex h-12 w-full rounded-xl border-2 border-gray-200 bg-white/80 backdrop-blur-sm px-4 py-3 text-sm placeholder:text-gray-400 transition-all duration-300 hover:border-gray-300 focus:border-primary-500 focus:bg-white focus:shadow-lg disabled:cursor-not-allowed disabled:opacity-50 disabled:bg-gray-50",
+          className
+        )}
+        ref={ref}
+        {...props}
+      />
+    </div>
   );
 });
 
 Input.displayName = "Input";
 
 export { Input };
+       
