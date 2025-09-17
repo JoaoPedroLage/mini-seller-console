@@ -244,15 +244,6 @@ export default function FileUpload({ onLeadsUpload }: FileUploadProps) {
     "source": "Website",
     "status": "New",
     "score": 85
-  },
-  {
-    "id": "2",
-    "name": "Jane Smith", 
-    "email": "jane@company.com",
-    "company": "Tech Solutions",
-    "source": "Referral",
-    "status": "Qualified",
-    "score": 92
   }
 ]`}
             </pre>
