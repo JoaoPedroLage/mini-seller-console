@@ -6,11 +6,10 @@ A lightweight and reactive application for triaging Leads and converting them in
 
 **[Click here to view the live application](https://mini-seller-console-joaopedrolages-projects.vercel.app/)**
 
-## 🎬 Preview
+## 🎬 Preview!
 
-![GIF of the application in action](URL_FOR_YOUR_GIF_HERE)
+![mini-seller-console](https://github.com/user-attachments/assets/0c336c1d-72a2-49dd-af5a-8472e6f27f1f)
 
-*(Tip: Record a short GIF showcasing the main features like search, filter, edit, and convert. You can host it directly on GitHub or on Imgur and paste the link here.)*
 
 ## 📋 Features
 
