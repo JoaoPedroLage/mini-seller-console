@@ -4,13 +4,12 @@ A lightweight and reactive application for triaging Leads and converting them in
 
 ## 🚀 Live Demo
 
-**[Click here to view the live application](https://YOUR-VERCEL-URL.app)**
+**[Click here to view the live application](https://mini-seller-console-joaopedrolages-projects.vercel.app/)**
 
-## 🎬 Preview
+## 🎬 Preview!
 
-![GIF of the application in action](URL_FOR_YOUR_GIF_HERE)
+![mini-seller-console](https://github.com/user-attachments/assets/0c336c1d-72a2-49dd-af5a-8472e6f27f1f)
 
-*(Tip: Record a short GIF showcasing the main features like search, filter, edit, and convert. You can host it directly on GitHub or on Imgur and paste the link here.)*
 
 ## 📋 Features
 
@@ -51,7 +50,7 @@ Follow the steps below to set up and run the project in your development environ
 ### Steps
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git)
+    git clone https://github.com/JoaoPedroLage/mini-seller-console.git
     ```
 
 2.  **Navigate to the project directory:**
