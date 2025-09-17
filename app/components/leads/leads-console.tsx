@@ -119,7 +119,7 @@ export default function LeadsConsole() {
                 placeholder="Search by name or company..." 
                 value={isSearchHydrated ? searchTerm : ''}
                 onChange={(e: React.ChangeEvent<HTMLInputElement>) => setSearchTerm(e.target.value)}
-                className="text-base"
+                className="text-base text-gray-900 dark:text-gray-900"
               />
             </div>
             <div className="lg:min-w-[240px]">
