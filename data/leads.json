@@ -1,0 +1,56 @@
+[
+  {
+    "id": "lead_001",
+    "name": "Ana Silva",
+    "company": "TechCorp",
+    "email": "ana.silva@techcorp.com",
+    "source": "LinkedIn",
+    "score": 95,
+    "status": "New"
+  },
+  {
+    "id": "lead_002",
+    "name": "Bruno Costa",
+    "company": "Innovate Solutions",
+    "email": "bruno.c@innovate.com",
+    "source": "Website",
+    "score": 88,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_003",
+    "name": "Carla Dias",
+    "company": "DataSys",
+    "email": "carla.dias@datasys.org",
+    "source": "Referral",
+    "score": 98,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_004",
+    "name": "Daniel Martins",
+    "company": "CloudWell",
+    "email": "daniel.martins@cloudwell.io",
+    "source": "Ad",
+    "score": 75,
+    "status": "New"
+  },
+  {
+    "id": "lead_005",
+    "name": "Eduarda Lima",
+    "company": "Innovate Solutions",
+    "email": "eduarda.l@innovate.com",
+    "source": "LinkedIn",
+    "score": 82,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_006",
+    "name": "Fábio Pereira",
+    "company": "TechCorp",
+    "email": "fabio.p@techcorp.com",
+    "source": "Website",
+    "score": 60,
+    "status": "Unqualified"
+  }
+]
