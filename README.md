@@ -51,7 +51,7 @@ Follow the steps below to set up and run the project in your development environ
 ### Steps
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git)
+    git clone https://github.com/JoaoPedroLage/mini-seller-console.git
     ```
 
 2.  **Navigate to the project directory:**
