@@ -4,7 +4,7 @@ A lightweight and reactive application for triaging Leads and converting them in
 
 ## 🚀 Live Demo
 
-**[Click here to view the live application](https://YOUR-VERCEL-URL.app)**
+**[Click here to view the live application](https://mini-seller-console-joaopedrolages-projects.vercel.app/)**
 
 ## 🎬 Preview
 
