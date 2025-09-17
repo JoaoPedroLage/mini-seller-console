@@ -52,5 +52,852 @@
     "source": "Website",
     "score": 60,
     "status": "Unqualified"
-  }
-]
+  },
+  {
+    "id": "lead_007",
+    "name": "Gabriel Santos",
+    "company": "MetaFlow",
+    "email": "gabriel.santos@metaflow.com",
+    "source": "LinkedIn",
+    "score": 91,
+    "status": "New"
+  },
+  {
+    "id": "lead_008",
+    "name": "Helena Rocha",
+    "company": "ByteForce",
+    "email": "helena.rocha@byteforce.io",
+    "source": "Referral",
+    "score": 87,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_009",
+    "name": "Igor Fernandes",
+    "company": "QuantumSoft",
+    "email": "igor.f@quantumsoft.net",
+    "source": "Website",
+    "score": 73,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_010",
+    "name": "Juliana Mendes",
+    "company": "NexusData",
+    "email": "juliana.mendes@nexusdata.com",
+    "source": "Ad",
+    "score": 95,
+    "status": "New"
+  },
+  {
+    "id": "lead_011",
+    "name": "Kevin Alves",
+    "company": "CyberLink",
+    "email": "kevin.alves@cyberlink.org",
+    "source": "LinkedIn",
+    "score": 68,
+    "status": "Unqualified"
+  },
+  {
+    "id": "lead_012",
+    "name": "Larissa Campos",
+    "company": "DataFlow",
+    "email": "larissa.c@dataflow.io",
+    "source": "Website",
+    "score": 84,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_013",
+    "name": "Marcelo Ribeiro",
+    "company": "TechVision",
+    "email": "marcelo.ribeiro@techvision.com",
+    "source": "Referral",
+    "score": 92,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_014",
+    "name": "Natália Souza",
+    "company": "CloudSync",
+    "email": "natalia.souza@cloudsync.net",
+    "source": "LinkedIn",
+    "score": 79,
+    "status": "New"
+  },
+  {
+    "id": "lead_015",
+    "name": "Otávio Castro",
+    "company": "DigitalCore",
+    "email": "otavio.castro@digitalcore.com",
+    "source": "Ad",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_016",
+    "name": "Paula Nunes",
+    "company": "SystemPlus",
+    "email": "paula.nunes@systemplus.org",
+    "source": "Website",
+    "score": 71,
+    "status": "New"
+  },
+  {
+    "id": "lead_017",
+    "name": "Rafael Moreira",
+    "company": "InnovateTech",
+    "email": "rafael.m@innovatetech.io",
+    "source": "LinkedIn",
+    "score": 96,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_018",
+    "name": "Sofia Barbosa",
+    "company": "NetSolutions",
+    "email": "sofia.barbosa@netsolutions.com",
+    "source": "Referral",
+    "score": 63,
+    "status": "Unqualified"
+  },
+  {
+    "id": "lead_019",
+    "name": "Thiago Oliveira",
+    "company": "CodeLab",
+    "email": "thiago.oliveira@codelab.net",
+    "source": "Website",
+    "score": 88,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_020",
+    "name": "Vanessa Torres",
+    "company": "SmartData",
+    "email": "vanessa.torres@smartdata.com",
+    "source": "Ad",
+    "score": 77,
+    "status": "New"
+  },
+  {
+    "id": "lead_021",
+    "name": "Wagner Silva",
+    "company": "TechHub",
+    "email": "wagner.silva@techhub.org",
+    "source": "LinkedIn",
+    "score": 83,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_022",
+    "name": "Ximena Ramos",
+    "company": "DataBridge",
+    "email": "ximena.ramos@databridge.io",
+    "source": "Referral",
+    "score": 94,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_023",
+    "name": "Yuri Gonçalves",
+    "company": "CyberFlow",
+    "email": "yuri.g@cyberflow.com",
+    "source": "Website",
+    "score": 69,
+    "status": "New"
+  },
+  {
+    "id": "lead_024",
+    "name": "Zara Machado",
+    "company": "QuantumCore",
+    "email": "zara.machado@quantumcore.net",
+    "source": "LinkedIn",
+    "score": 81,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_025",
+    "name": "André Cardoso",
+    "company": "FlexSoft",
+    "email": "andre.cardoso@flexsoft.com",
+    "source": "Ad",
+    "score": 76,
+    "status": "New"
+  },
+  {
+    "id": "lead_026",
+    "name": "Beatriz Lima",
+    "company": "VirtualTech",
+    "email": "beatriz.lima@virtualtech.org",
+    "source": "Website",
+    "score": 89,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_027",
+    "name": "Caio Ferreira",
+    "company": "NextGen",
+    "email": "caio.ferreira@nextgen.io",
+    "source": "Referral",
+    "score": 65,
+    "status": "Unqualified"
+  },
+  {
+    "id": "lead_028",
+    "name": "Débora Azevedo",
+    "company": "ProSystems",
+    "email": "debora.azevedo@prosystems.com",
+    "source": "LinkedIn",
+    "score": 93,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_029",
+    "name": "Evandro Pinto",
+    "company": "TechStream",
+    "email": "evandro.pinto@techstream.net",
+    "source": "Website",
+    "score": 72,
+    "status": "New"
+  },
+  {
+    "id": "lead_030",
+    "name": "Fernanda Reis",
+    "company": "DigitalWave",
+    "email": "fernanda.reis@digitalwave.com",
+    "source": "Ad",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_031",
+    "name": "Gustavo Miranda",
+    "company": "CloudTech",
+    "email": "gustavo.miranda@cloudtech.org",
+    "source": "LinkedIn",
+    "score": 78,
+    "status": "New"
+  },
+  {
+    "id": "lead_032",
+    "name": "Isabela Franco",
+    "company": "DataPoint",
+    "email": "isabela.franco@datapoint.io",
+    "source": "Referral",
+    "score": 97,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_033",
+    "name": "João Batista",
+    "company": "SoftCore",
+    "email": "joao.batista@softcore.com",
+    "source": "Website",
+    "score": 64,
+    "status": "Unqualified"
+  },
+  {
+    "id": "lead_034",
+    "name": "Karina Vieira",
+    "company": "TechForce",
+    "email": "karina.vieira@techforce.net",
+    "source": "LinkedIn",
+    "score": 90,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_035",
+    "name": "Leonardo Melo",
+    "company": "InnovaTech",
+    "email": "leonardo.melo@innovatech.com",
+    "source": "Ad",
+    "score": 74,
+    "status": "New"
+  },
+  {
+    "id": "lead_036",
+    "name": "Mariana Gomes",
+    "company": "ByteTech",
+    "email": "mariana.gomes@bytetech.org",
+    "source": "Website",
+    "score": 87,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_037",
+    "name": "Nicolas Duarte",
+    "company": "SystemCore",
+    "email": "nicolas.duarte@systemcore.io",
+    "source": "Referral",
+    "score": 80,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_038",
+    "name": "Olívia Santos",
+    "company": "DataTech",
+    "email": "olivia.santos@datatech.com",
+    "source": "LinkedIn",
+    "score": 67,
+    "status": "New"
+  },
+  {
+    "id": "lead_039",
+    "name": "Pedro Henrique",
+    "company": "CloudBase",
+    "email": "pedro.henrique@cloudbase.net",
+    "source": "Website",
+    "score": 92,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_040",
+    "name": "Queila Moura",
+    "company": "TechNet",
+    "email": "queila.moura@technet.com",
+    "source": "Ad",
+    "score": 70,
+    "status": "New"
+  },
+  {
+    "id": "lead_041",
+    "name": "Roberto Carlos",
+    "company": "DigitalSoft",
+    "email": "roberto.carlos@digitalsoft.org",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_042",
+    "name": "Simone Almeida",
+    "company": "NetCore",
+    "email": "simone.almeida@netcore.io",
+    "source": "Referral",
+    "score": 91,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_043",
+    "name": "Tiago Nascimento",
+    "company": "ProTech",
+    "email": "tiago.nascimento@protech.com",
+    "source": "Website",
+    "score": 66,
+    "status": "Unqualified"
+  },
+  {
+    "id": "lead_044",
+    "name": "Úrsula Tavares",
+    "company": "TechFlow",
+    "email": "ursula.tavares@techflow.net",
+    "source": "LinkedIn",
+    "score": 88,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_045",
+    "name": "Vitor Hugo",
+    "company": "DataCore",
+    "email": "vitor.hugo@datacore.com",
+    "source": "Ad",
+    "score": 73,
+    "status": "New"
+  },
+  {
+    "id": "lead_046",
+    "name": "Wanda Borges",
+    "company": "SystemFlow",
+    "email": "wanda.borges@systemflow.org",
+    "source": "Website",
+    "score": 89,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_047",
+    "name": "Xerxes Monteiro",
+    "company": "CyberSoft",
+    "email": "xerxes.monteiro@cybersoft.io",
+    "source": "Referral",
+    "score": 82,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_048",
+    "name": "Yasmin Lopes",
+    "company": "TechBase",
+    "email": "yasmin.lopes@techbase.com",
+    "source": "LinkedIn",
+    "score": 75,
+    "status": "New"
+  },
+  {
+    "id": "lead_049",
+    "name": "Zilda Coelho",
+    "company": "DigitalFlow",
+    "email": "zilda.coelho@digitalflow.net",
+    "source": "Website",
+    "score": 94,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_050",
+    "name": "Adriano Silva",
+    "company": "NetSoft",
+    "email": "adriano.silva@netsoft.com",
+    "source": "Ad",
+    "score": 68,
+    "status": "New"
+  },
+  {
+    "id": "lead_051",
+    "name": "Bianca Costa",
+    "company": "TechPoint",
+    "email": "bianca.costa@techpoint.org",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_052",
+    "name": "Carlos Eduardo",
+    "company": "DataNet",
+    "email": "carlos.eduardo@datanet.io",
+    "source": "Referral",
+    "score": 90,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_053",
+    "name": "Diana Freitas",
+    "company": "SystemTech",
+    "email": "diana.freitas@systemtech.com",
+    "source": "Website",
+    "score": 71,
+    "status": "New"
+  },
+  {
+    "id": "lead_054",
+    "name": "Eduardo Santos",
+    "company": "CloudFlow",
+    "email": "eduardo.santos@cloudflow.net",
+    "source": "LinkedIn",
+    "score": 83,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_055",
+    "name": "Fabiana Torres",
+    "company": "DigitalCore",
+    "email": "fabiana.torres@digitalcore.com",
+    "source": "Ad",
+    "score": 77,
+    "status": "New"
+  },
+  {
+    "id": "lead_056",
+    "name": "Guilherme Rocha",
+    "company": "TechSoft",
+    "email": "guilherme.rocha@techsoft.org",
+    "source": "Website",
+    "score": 95,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_057",
+    "name": "Heloísa Martins",
+    "company": "ByteCore",
+    "email": "heloisa.martins@bytecore.io",
+    "source": "Referral",
+    "score": 62,
+    "status": "Unqualified"
+  },
+  {
+    "id": "lead_058",
+    "name": "Ivan Pereira",
+    "company": "NetFlow",
+    "email": "ivan.pereira@netflow.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_059",
+    "name": "Jéssica Lima",
+    "company": "ProCore",
+    "email": "jessica.lima@procore.net",
+    "source": "Website",
+    "score": 74,
+    "status": "New"
+  },
+  {
+    "id": "lead_060",
+    "name": "Klaus Müller",
+    "company": "TechLink",
+    "email": "klaus.muller@techlink.com",
+    "source": "Ad",
+    "score": 89,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_061",
+    "name": "Lívia Carvalho",
+    "company": "DataSoft",
+    "email": "livia.carvalho@datasoft.org",
+    "source": "LinkedIn",
+    "score": 81,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_062",
+    "name": "Márcio Dias",
+    "company": "SystemNet",
+    "email": "marcio.dias@systemnet.io",
+    "source": "Referral",
+    "score": 76,
+    "status": "New"
+  },
+  {
+    "id": "lead_063",
+    "name": "Nayara Campos",
+    "company": "CloudCore",
+    "email": "nayara.campos@cloudcore.com",
+    "source": "Website",
+    "score": 93,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_064",
+    "name": "Oscar Ribeiro",
+    "company": "TechFlow",
+    "email": "oscar.ribeiro@techflow.net",
+    "source": "LinkedIn",
+    "score": 69,
+    "status": "New"
+  },
+  {
+    "id": "lead_065",
+    "name": "Priscila Souza",
+    "company": "DigitalNet",
+    "email": "priscila.souza@digitalnet.com",
+    "source": "Ad",
+    "score": 84,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_066",
+    "name": "Quintino Castro",
+    "company": "ByteFlow",
+    "email": "quintino.castro@byteflow.org",
+    "source": "Website",
+    "score": 78,
+    "status": "New"
+  },
+  {
+    "id": "lead_067",
+    "name": "Renata Nunes",
+    "company": "NetTech",
+    "email": "renata.nunes@nettech.io",
+    "source": "Referral",
+    "score": 91,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_068",
+    "name": "Sérgio Moreira",
+    "company": "ProFlow",
+    "email": "sergio.moreira@proflow.com",
+    "source": "LinkedIn",
+    "score": 65,
+    "status": "Unqualified"
+  },
+  {
+    "id": "lead_069",
+    "name": "Tatiana Barbosa",
+    "company": "TechCore",
+    "email": "tatiana.barbosa@techcore.net",
+    "source": "Website",
+    "score": 88,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_070",
+    "name": "Ulisses Oliveira",
+    "company": "DataFlow",
+    "email": "ulisses.oliveira@dataflow.com",
+    "source": "Ad",
+    "score": 72,
+    "status": "New"
+  },
+  {
+    "id": "lead_071",
+    "name": "Verônica Torres",
+    "company": "SystemSoft",
+    "email": "veronica.torres@systemsoft.org",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_072",
+    "name": "Wellington Silva",
+    "company": "CloudNet",
+    "email": "wellington.silva@cloudnet.io",
+    "source": "Referral",
+    "score": 94,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_073",
+    "name": "Xuxa Ramos",
+    "company": "DigitalTech",
+    "email": "xuxa.ramos@digitaltech.com",
+    "source": "Website",
+    "score": 67,
+    "status": "New"
+  },
+  {
+    "id": "lead_074",
+    "name": "Yolanda Gonçalves",
+    "company": "TechNet",
+    "email": "yolanda.g@technet.net",
+    "source": "LinkedIn",
+    "score": 82,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_075",
+    "name": "Zacarias Machado",
+    "company": "ByteNet",
+    "email": "zacarias.machado@bytenet.com",
+    "source": "Ad",
+    "score": 75,
+    "status": "New"
+  },
+  {
+    "id": "lead_076",
+    "name": "Amanda Cardoso",
+    "company": "ProTech",
+    "email": "amanda.cardoso@protech.org",
+    "source": "Website",
+    "score": 89,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_077",
+    "name": "Bruno Lima",
+    "company": "NetCore",
+    "email": "bruno.lima@netcore.io",
+    "source": "Referral",
+    "score": 73,
+    "status": "New"
+  },
+  {
+    "id": "lead_078",
+    "name": "Cristina Ferreira",
+    "company": "TechSoft",
+    "email": "cristina.ferreira@techsoft.com",
+    "source": "LinkedIn",
+    "score": 91,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_079",
+    "name": "Douglas Azevedo",
+    "company": "DataCore",
+    "email": "douglas.azevedo@datacore.net",
+    "source": "Website",
+    "score": 68,
+    "status": "New"
+  },
+  {
+    "id": "lead_080",
+    "name": "Eliana Pinto",
+    "company": "SystemFlow",
+    "email": "eliana.pinto@systemflow.com",
+    "source": "Ad",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_081",
+    "name": "Francisco Reis",
+    "company": "CloudTech",
+    "email": "francisco.reis@cloudtech.org",
+    "source": "LinkedIn",
+    "score": 79,
+    "status": "New"
+  },
+  {
+    "id": "lead_082",
+    "name": "Giovana Miranda",
+    "company": "DigitalCore",
+    "email": "giovana.miranda@digitalcore.io",
+    "source": "Referral",
+    "score": 96,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_083",
+    "name": "Henrique Franco",
+    "company": "ByteTech",
+    "email": "henrique.franco@bytetech.com",
+    "source": "Website",
+    "score": 64,
+    "status": "Unqualified"
+  },
+  {
+    "id": "lead_084",
+    "name": "Ingrid Batista",
+    "company": "TechFlow",
+    "email": "ingrid.batista@techflow.net",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_085",
+    "name": "José Vieira",
+    "company": "NetSoft",
+    "email": "jose.vieira@netsoft.com",
+    "source": "Ad",
+    "score": 71,
+    "status": "New"
+  },
+  {
+    "id": "lead_086",
+    "name": "Kelly Melo",
+    "company": "ProCore",
+    "email": "kelly.melo@procore.org",
+    "source": "Website",
+    "score": 88,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_087",
+    "name": "Lucas Gomes",
+    "company": "SystemTech",
+    "email": "lucas.gomes@systemtech.io",
+    "source": "Referral",
+    "score": 80,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_088",
+    "name": "Michele Duarte",
+    "company": "DataNet",
+    "email": "michele.duarte@datanet.com",
+    "source": "LinkedIn",
+    "score": 74,
+    "status": "New"
+  },
+  {
+    "id": "lead_089",
+    "name": "Nelson Santos",
+    "company": "CloudFlow",
+    "email": "nelson.santos@cloudflow.net",
+    "source": "Website",
+    "score": 92,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_090",
+    "name": "Patrícia Henrique",
+    "company": "TechCore",
+    "email": "patricia.henrique@techcore.com",
+    "source": "Ad",
+    "score": 66,
+    "status": "New"
+  },
+  {
+    "id": "lead_091",
+    "name": "Quirino Moura",
+    "company": "DigitalFlow",
+    "email": "quirino.moura@digitalflow.org",
+    "source": "LinkedIn",
+    "score": 83,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_092",
+    "name": "Rafaela Carlos",
+    "company": "ByteCore",
+    "email": "rafaela.carlos@bytecore.io",
+    "source": "Referral",
+    "score": 89,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_093",
+    "name": "Samuel Almeida",
+    "company": "NetFlow",
+    "email": "samuel.almeida@netflow.com",
+    "source": "Website",
+    "score": 70,
+    "status": "New"
+  },
+  {
+    "id": "lead_094",
+    "name": "Tamires Nascimento",
+    "company": "ProNet",
+    "email": "tamires.nascimento@pronet.net",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_095",
+    "name": "Ubirajara Tavares",
+    "company": "TechLink",
+    "email": "ubirajara.tavares@techlink.com",
+    "source": "Ad",
+    "score": 77,
+    "status": "New"
+  },
+  {
+    "id": "lead_096",
+    "name": "Viviane Hugo",
+    "company": "DataTech",
+    "email": "viviane.hugo@datatech.org",
+    "source": "Website",
+    "score": 93,
+    "status": "Qualified"
+  },
+  {
+    "id": "lead_097",
+    "name": "Walter Borges",
+    "company": "SystemCore",
+    "email": "walter.borges@systemcore.io",
+    "source": "Referral",
+    "score": 69,
+    "status": "New"
+  },
+  {
+    "id": "lead_098",
+    "name": "Ximena Monteiro",
+    "company": "CloudSoft",
+    "email": "ximena.monteiro@cloudsoft.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "Contacted"
+  },
+  {
+    "id": "lead_099",
+    "name": "Yara Lopes",
+    "company": "DigitalNet",
+    "email": "yara.lopes@digitalnet.net",
+    "source": "Website",
+    "score": 78,
+    "status": "New"
+  },
+    {
+      "id": "lead_100",
+      "name": "Zeno Coelho",
+      "company": "TechBase",
+      "email": "zeno.coelho@techbase.com",
+      "source": "Ad",
+      "score": 90,
+      "status": "Qualified"
+    }
+  ]
+  
